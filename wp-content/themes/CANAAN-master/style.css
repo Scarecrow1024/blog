@@ -614,8 +614,8 @@ article img , article .wp-caption {
 }
 
 .page{
-    padding-top: 25px;
-    background: #DADADA;
+    padding-top: 10px;
+    background: #FFFFFF;
 }
 
 body .single_page{
@@ -1015,7 +1015,7 @@ body .single_page{
 
 #s_content{
     width: 80%;
-    margin: 50px auto;
+    margin: 30px auto;
     max-width: 1170px;
 }
 
@@ -1036,8 +1036,8 @@ body .single_page{
 }
 
 .sp_c{
-    padding: 2em 0;
-    line-height: 2em;
+    padding: 0em 0;
+    line-height: 1.3em;
     font-size:18px;
     color: #444;
 }
